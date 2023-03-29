@@ -1,0 +1,28 @@
+{
+  "name": "ebac-modulo-24-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcospoliceno/ebac-modulo-24-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcospoliceno/ebac-modulo-24-api/issues"
+  },
+  "homepage": "https://github.com/marcospoliceno/ebac-modulo-24-api#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.0",
+    "faker-br": "^0.4.1",
+    "joi": "^17.9.1"
+  }
+}
